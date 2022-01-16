@@ -2,3 +2,6 @@
 >>git init 
 >>git add 
 >>git commit -m "message"
+>>git branch #show all local branch
+>>git checkout -b new-branch 
+>>git chekcout branch-name
