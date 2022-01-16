@@ -5,3 +5,8 @@
 >>git branch #show all local branch
 >>git checkout -b new-branch 
 >>git chekcout branch-name
+>>git merge branch-name
+>>git diff branch-name
+>>git stash push -m "message"
+>>git stash list 
+>>git stash apply stash@{n}
