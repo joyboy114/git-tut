@@ -10,3 +10,6 @@
 >>git stash push -m "message"
 >>git stash list 
 >>git stash apply stash@{n}
+>>git remote add origin url
+>>git push -u origin branch-name 
+>>git pull origin master #(branch-name)
